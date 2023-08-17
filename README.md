@@ -7,3 +7,9 @@
 ## 🌐 Socials:
 <div align="center"> 
 <a href = "mailto:fefe.mfarias02@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a6c9&height=120&section=header"/>
