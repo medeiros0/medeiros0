@@ -2,6 +2,22 @@
 
 - 👾 Ciências da Computação - 7️⃣/8️⃣
 
+---
+
+### 👨‍💻 Sobre mim  
+
+Sou o Fernando, estudante de **Ciência da Computação** no UniCEUB e apaixonado por tecnologia desde cedo. 🚀  
+
+Tenho experiência Acadêmia com **desenvolvimento web** e, sempre buscando criar soluções práticas e criativas.  
+
+Além disso, sou um verdadeiro **entusiasta da cibersegurança**, área que quero me aprofundar cada vez mais no futuro. 🔒💡  
+
+Acredito muito no **aprendizado contínuo**, afinal, a tecnologia evolui em uma velocidade incrível e estar sempre atualizado é essencial para quem quer se destacar nessa área.  
+
+💡 No fim das contas, meu foco é simples: aprender, evoluir e contribuir com projetos que façam a diferença.  
+
+---
+
 <div align="center"> 🌐 Socials: </div>
 
 ---
