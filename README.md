@@ -5,6 +5,12 @@
 <div align="center"> 🌐 Socials: </div>
 
 <div align="center"> 
+  <a href="https://github.com/medeiros0"> 
+    <img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<div align="center"> 
   <a href="mailto:fefe.mfarias02@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
