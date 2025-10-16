@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a6c9&size=35&center=true&vCenter=true&width=1000&lines=Olá,👋;Meu+nome+é+Fernando+Medeiros...;Fique+a+vontade!)](https://git.io/typing-svg)
 
-- 👾 Ciências da Computação - 7️⃣/8️⃣
+- 👾 Ciências da Computação - 6️⃣/8️⃣
 
 ---
 
