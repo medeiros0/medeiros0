@@ -1,5 +1,3 @@
----
-
 ### 👨‍💻 Sobre mim  
 
 Sou o Fernando, estudante de **Ciência da Computação** no UniCEUB e apaixonado por tecnologia desde cedo. 🚀  
